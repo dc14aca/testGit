@@ -1,0 +1,5 @@
+#Owner: dc14aca
+#Date: 13.11.20
+#Purpose: Testing Git on the windows Terminal
+
+This is a test
